@@ -1,0 +1,3 @@
+[submodule "app/src/main/cpp/xhook"]
+	path = app/src/main/cpp/xhook
+	url = https://github.com/iqiyi/xHook.git
